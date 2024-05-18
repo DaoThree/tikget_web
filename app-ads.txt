@@ -1,4 +1,3 @@
-google.com, pub-7966971401148134, DIRECT, f08c47fec0942fa0
 
 //pangle
 pangleglobal.com, 5007152, DIRECT
